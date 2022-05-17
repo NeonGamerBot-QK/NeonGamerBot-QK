@@ -8,6 +8,7 @@ i code in these langs
 "projects": "2" 
 }
 ```
-and thats it [whats this](https://discord.com/@me)
+### donate
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T1CR9RB)
 
 ![My guthub](https://github-readme-stats.vercel.app/api/?username=NeonGamerBot-QK&count_private=true&theme=tokyonight&showicons=true)
