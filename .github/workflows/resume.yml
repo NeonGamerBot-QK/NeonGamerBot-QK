@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: make-resume
-        uses: NeonGamerBot-QK/resume-action@v0
+        uses: NeonGamerBot-QK/resume-action@v0.0.1
         with:
           github_user_name: ${{ github.repository_owner }}
       - name: push resume to the output branch
