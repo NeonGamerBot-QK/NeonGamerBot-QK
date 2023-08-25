@@ -1,0 +1,18 @@
+name: 'Github Resume Generator'
+description: 'Greet someone and record the time'
+author: Saahil
+runs:
+  using: node16
+  main: dist/index.js
+inputs:
+  github_user_name:
+    description: "github user name"
+    required: true
+  output:
+    required: false
+    default: "file.pdf"
+    description: |
+      File name for the output file.
+
+      example:
+        output: resume.pdf
