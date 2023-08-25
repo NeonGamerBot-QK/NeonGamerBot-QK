@@ -25,7 +25,7 @@ setTimeout(async () => {
     // const payload = JSON.stringify(github.context.payload, undefined, 2)
     // console.log(`The event payload: ${payload}`);
     await browser.close();
-}, 30_000)
+}, 60_000)
   } catch (error) {
     core.setFailed(error.message);
   }
