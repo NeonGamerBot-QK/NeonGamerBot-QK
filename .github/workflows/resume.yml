@@ -8,7 +8,7 @@ jobs:
     container: lironavon/docker-puppeteer-container:14.16.0
     steps:
       - uses: actions/checkout@v3
-      - uses: browser-actions/setup-chrome@v1.2.0
+   #   - uses: browser-actions/setup-chrome@v1.2.0
       - name: make-resume
         uses: NeonGamerBot-QK/resume-action@0.0.4v-1
         with:
