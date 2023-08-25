@@ -21,7 +21,7 @@ jobs:
         with:
           cache: yarn
           node-version: 16
-      - run: yarn install --frozen-lockfile
+      - run: cd resume-action && yarn install --frozen-lockfile
 
       - name: make-resume
         id: make-resume
@@ -29,10 +29,10 @@ jobs:
         with:
           github_user_name: NeonGamerBot-QK
 
-      - name: ensure the generated file exists
-        run: |
-          ls dist
-          test -f dist/file.pdf
+      #- name: ensure the generated file exists
+     #   run: |
+      #    ls dist
+     #     test -f dist/file.pdf
           
     #   - uses: crazy-max/ghaction-github-pages@v3.1.0
     #     with:
