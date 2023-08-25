@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
   test-action:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     container: lironavon/docker-puppeteer-container:14.16.0
     steps:
       - uses: actions/checkout@v3
