@@ -17,11 +17,15 @@ const puppeteer = require('puppeteer');
     await page.goto('https://resume.github.io/?'+ghUsername);
     // Get the JSON webhook payload for the event that triggered the workflow
     fs.mkdirSync("dist")
+setTimeout(async () => {    
+// now why wait a minute? becuase this page needs to load EVERYTHING
+
     await page.pdf({ path: path.join( "dist", filePath )})
 
     // const payload = JSON.stringify(github.context.payload, undefined, 2)
     // console.log(`The event payload: ${payload}`);
     await browser.close();
+}, 30_000)
   } catch (error) {
     core.setFailed(error.message);
   }
