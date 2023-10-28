@@ -3,7 +3,7 @@ description: 'Greet someone and record the time'
 author: Saahil
 runs:
   using: node16
-  main: dist/index.js
+  main: index.js
 inputs:
   github_user_name:
     description: "github user name"
