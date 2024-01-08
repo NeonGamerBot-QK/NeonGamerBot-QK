@@ -14,7 +14,8 @@ Hello I’m a web developer with many talents!
 ![snake gif](https://github.com/NeonGamerBot-QK/NeonGamerBot-QK/blob/output/github-contribution-grid-snake.svg)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NeonGamerBot-QK&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+## Spotify 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=saahil.d&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=b6494d&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
