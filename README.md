@@ -21,7 +21,8 @@ Hello I’m a web developer with many talents!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NeonGamerBot-QK&icon=0&color=0)](https://visitcount.itsvg.in)
-
+## Pc Stats
+[url=https://valid.x86.fr/6jbjpl][img]https://valid.x86.fr/cache/banner/6jbjpl-6.png[/img][/url]
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/duttafamily) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/saahil) 
 
