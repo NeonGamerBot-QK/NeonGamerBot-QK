@@ -28,7 +28,9 @@ Hello I’m a web developer with many talents!
 [Pc Part Picker](https://pcpartpicker.com/list/xMT9PF)
 ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/duttafamily) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/saahil) 
-
+<!--
+Patched :<
   ```math
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 40vh; left: 20vw; object-fit: cover; background-size: cover!important; width: 10vw; height: 10vw; animation: Toast--spinner infinite linear 60s, Overlay--motion-slideInLeft infinite alternate 1.06s, Overlay--motion-slideUp infinite alternate 2.2s; background: url('https://github.com/NeonGamerBot-QK/NeonGamerBot-QK/blob/main/com--unscreen.gif?raw=true');]{x0000}$}
 ```
+-->
