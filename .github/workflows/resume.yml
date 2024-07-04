@@ -34,7 +34,7 @@ jobs:
             target_branch: output-resume
             build_dir: dist
         env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       #- name: ensure the generated file exists
      #   run: |
       #    ls dist
