@@ -31,6 +31,8 @@ Hello I’m a web developer with many talents!
 [Pc Part Picker](https://pcpartpicker.com/list/xMT9PF)
 ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/duttafamily) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/saahil) 
+## Cat
+<img src="https://github.com/NeonGamerBot-QK/NeonGamerBot-QK/blob/main/oneko-sleep.gif?raw=true" />
 <!--
 Patched :<
   ```math
