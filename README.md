@@ -25,7 +25,7 @@ Hello I’m a web developer with many talents!
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=NeonGamerBot-QK&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://ghtrophies.saahild.com/?username=NeonGamerBot-QK&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Spotify & Discord
 
