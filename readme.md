@@ -1,6 +1,7 @@
 <!--
-Checksum 9365276644245479
+Checksum 9839069056253336
 -->
+![banner](./banner/banner.svg)
 # 💫 About Me:
 
 Hello I’m a web developer with many talents!
