@@ -1,6 +1,7 @@
 <!--
 Checksum <%= Math.random().toString().split('.')[1] %>
 -->
+![banner](./banner/banner.svg)
 # 💫 About Me:
 
 Hello I’m a web developer with many talents!
